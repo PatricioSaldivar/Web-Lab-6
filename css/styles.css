@@ -1,0 +1,24 @@
+h3{
+  font-style: italic;
+  color: grey; 
+}
+
+html {
+  height: 100%;
+  padding-left: 10pt;
+}
+.container{
+  border: 2px solid black;
+  padding: 10pt;
+  margin: 10pt;
+}
+
+.listElements{
+    border: 2px solid grey;
+    padding: 10pt;
+    margin: 10pt;
+}
+.check{
+  text-decoration: line-through;
+}
+
